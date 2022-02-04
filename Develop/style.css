@@ -57,7 +57,14 @@ textarea{
   color: white;
 }
 
+.center {
+  display: block;
+  text-align: center;
+}
+
 .saveBtn {
+  width: 66px;
+  height: 79px;
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
@@ -77,5 +84,6 @@ textarea{
 .content {
   width: 1008px;
 }
+
 
 
